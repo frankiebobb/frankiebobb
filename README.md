@@ -2,8 +2,10 @@ h1>Hi, I'm Frankie, a <a href="https://www.linkedin.com/in/frankie-bobb-8a0a6127
 
 <h2> Information Technology Projects:</h2>
 
+Exploring Azure Anatomy
+
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakoredmonds/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/frankiebobb/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>Microsoft Azure</b>
