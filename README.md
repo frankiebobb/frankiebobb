@@ -1,4 +1,4 @@
-h1>Hi, I'm Frankie, an <a href="https://linkedin.com/in/JaneDoe">IT Professional</a></h1>
+h1>Hi, I'm Frankie, a <a href="https://www.linkedin.com/in/frankie-bobb-8a0a6127a/">SChool AIde and aspiring IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
