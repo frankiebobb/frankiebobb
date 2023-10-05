@@ -16,4 +16,4 @@ I am currently looking for an entry level IT psition and down below are some pro
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/frankie-bobb-8a0a6127a/" />][linkedin]
 
 
-[linkedin]:https://www.linkedin.com/in/frankie-bobb-8a0a6127a/
+[linkedin]: https://www.linkedin.com/in/frankie-bobb-8a0a6127a/
