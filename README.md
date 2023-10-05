@@ -4,7 +4,7 @@ h1>Hi, I'm Frankie, a <a href="https://www.linkedin.com/in/frankie-bobb-8a0a6127
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/frankiebobb/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/frankiebobb/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/frankiebobb/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Exploring Azure Anatomy](https://github.com/frankiebobb/configure-ad)
