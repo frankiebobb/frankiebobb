@@ -1,4 +1,4 @@
-h1>Hi, I'm Frankie, a <a href="https://www.linkedin.com/in/frankie-bobb-8a0a6127a/">School Aide and aspiring IT Professional</a></h1>
+h1>Hi, I'm Frankie, a <a href="https://www.linkedin.com/in/frankie-bobb-8a0a6127a/">School Aide and aspiring IT Professional.</a></h1>
 I am currently looking for an entry level IT psition and down below are some projectsw I've worked on during my certification
 
 <h2> Information Technology Projects:</h2>
