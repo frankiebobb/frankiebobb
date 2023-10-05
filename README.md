@@ -1,4 +1,4 @@
-h1>Hi, I'm Frankie, a <a href="https://www.linkedin.com/in/frankie-bobb-8a0a6127a/">School Aide and aspiring IT Professional</a></h1>
+h1>Hi, I'm Frankie, a <a href="https://www.linkedin.com/in/frankie-bobb-8a0a6127a/">School Aide and aspiring IT Professional. I am currently looking for an entry level IT psition and down below are some projectsw I've worked on during my certification</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
@@ -15,4 +15,4 @@ h1>Hi, I'm Frankie, a <a href="https://www.linkedin.com/in/frankie-bobb-8a0a6127
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/frankie-bobb-8a0a6127a/" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/frankie-bobb-8a0a6127a/
+[linkedin]:https://www.linkedin.com/in/frankie-bobb-8a0a6127a/
